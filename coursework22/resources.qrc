@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/background.jpg</file>
+        <file>images/life.png</file>
+        <file>images/items/item0.jpg</file>
+        <file>images/items/item1.jpg</file>
+        <file>images/items/item2.jpg</file>
+        <file>images/items/item3.jpg</file>
+        <file>images/items/item4.jpg</file>
+        <file>images/items/item5.jpg</file>
+        <file>images/items/item6.jpg</file>
+        <file>images/items/item7.jpg</file>
+        <file>images/items/item8.jpg</file>
+        <file>images/items/item9.jpg</file>
+        <file>images/items/item10.jpg</file>
+        <file>images/items/item11.jpg</file>
+        <file>images/items/item12.jpg</file>
+        <file>images/items/item13.jpg</file>
+        <file>images/items/item14.jpg</file>
+        <file>images/items_show/item0.png</file>
+        <file>images/items_show/item1.png</file>
+        <file>images/items_show/item2.png</file>
+        <file>images/items_show/item3.png</file>
+        <file>images/items_show/item4.png</file>
+        <file>images/items_show/item5.png</file>
+        <file>images/items_show/item6.png</file>
+        <file>images/items_show/item7.png</file>
+        <file>images/items_show/item8.png</file>
+        <file>images/items_show/item9.png</file>
+        <file>images/items_show/item10.png</file>
+        <file>images/items_show/item11.png</file>
+        <file>images/items_show/item12.png</file>
+        <file>images/items_show/item13.png</file>
+        <file>images/items_show/item14.png</file>
+        <file>results.db</file>
+    </qresource>
+</RCC>
